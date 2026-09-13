@@ -24,7 +24,7 @@ public class basiclogin {
         String password = sc.nextLine();
         
         if (username.equals(user) && password.equals(pass)) {
-            System.out.println("Login Succesfully!");
+            System.out.println("Login Succesfully!Welcome Admin!");
         }
         else {
             System.out.println("Login Unsuccesfully");
