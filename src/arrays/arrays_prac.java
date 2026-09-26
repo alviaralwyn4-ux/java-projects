@@ -4,10 +4,16 @@
  */
 package arrays;
 
+import java.util.Scanner;
+
 /**
  *
  * @author alviar
  */
 public class arrays_prac {
+    
+Scanner sc = new Scanner(System.in);
+       
+
     
 }
