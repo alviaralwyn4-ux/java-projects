@@ -27,7 +27,7 @@ public class basiclogin {
             System.out.println("Login Succesfully!Welcome Admin!");
         }
         else {
-            System.out.println("Login Unsuccesfully");
+            System.out.println("Wronng credentials!");
         }   
     }
     
