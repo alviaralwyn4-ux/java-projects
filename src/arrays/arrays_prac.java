@@ -11,9 +11,24 @@ import java.util.Scanner;
  * @author alviar
  */
 public class arrays_prac {
+    public static void main(String[] args) {
+        
     
-Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
        
-
-    
+        String cars [] = new String[5];
+         
+         for (int i = 0; i < 5; i++) 
+        {
+            System.out.print("Enter Cars " + (i+1) + ": ");
+            cars[i] = sc.nextLine();
+        }  
+        
+         System.out.println("\nCars: ");
+         
+         for (int i = 0; i < 5; i++) {
+            System.out.println(cars[i]);
+         }
+    }
 }
+    
