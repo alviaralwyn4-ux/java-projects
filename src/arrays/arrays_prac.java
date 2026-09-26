@@ -2,12 +2,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package git;
+package arrays;
 
 /**
  *
  * @author alviar
  */
-public class NewClass {
+public class arrays_prac {
     
 }
